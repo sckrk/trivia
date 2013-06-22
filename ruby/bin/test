@@ -2,4 +2,4 @@
 
 echo "Running tests"
 ./bin/master_runner test.out
-diff golden_master.out test.out | diffstat -C
+diff golden_master.out test.out | diffstat
