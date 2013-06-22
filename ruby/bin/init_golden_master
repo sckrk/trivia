@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Creating golden master"
+./bin/master_runner golden_master.out
